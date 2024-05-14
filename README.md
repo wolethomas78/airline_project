@@ -1,4 +1,5 @@
-<img width="662" alt="airportpix" src="https://github.com/wolethomas78/airline_project/assets/102493084/b9137284-112a-4c91-b316-ae063c1f27ba"># Airline_Project
+# Background
+## Airline Project
 The creation of Airline Reservation System is very important in order to manage flight bookings effectively. This project will explore the crucial components and stages involved in creating a system for flight booking to ensure there is seamless running of operations and its user friendly. MYSQL will be the programming language.
 
 ![](airportpix.png)
