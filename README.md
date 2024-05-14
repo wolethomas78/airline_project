@@ -15,3 +15,15 @@ These are the following features of the airline reservation system.
 - Airport Management: Store information about airports, including airport codes, names, locations, and facilities.
 - Booking Management: Handle flight reservations, including booking IDs, flight details, passenger information, and payment status.
 - Payment Processing: Securely process payments for flight bookings, including transaction IDs, payment methods, and amounts.
+
+ ## Entities and Attributes for the Flight Reservation System
+Entities define the building blocks of this database, representing the fundamental objects or concepts that need to be stored and managed. Attributes define the characteristics or properties of each entity.
+
+## Flight: The ENTITY here Represents individual flights operated by airlines. 
+- FlightID (Primary Key): Unique identifier for each flight.
+- Departure_Time: Date and time of flight departure.
+- Arrival_Time: Date and time of flight arrival.
+- Airport_Origin: Three-letter code representing the origin airport.
+- Airport_Destination: Three-letter code representing the destination airport.
+- Available_Seat: Number of available seats on the flight.
+  
