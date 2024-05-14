@@ -81,3 +81,7 @@ Airport_Facility: Facilities available at the airport (e.g., parking, lounges)
 ### Payment_mgt – Booking_mgt Relationship
 - Each payment is associated with one booking (Booking_ID in the Payment table references Booking_ID in the Booking table).
 - This is a one-to-one relationship, as each payment corresponds to only one booking, and each booking can have only one payment.
+
+## Representataion of ER Diagram
+![](airportpix.png)
+  
