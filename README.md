@@ -19,7 +19,7 @@ These are the following features of the airline reservation system.
  ## Entities and Attributes for the Flight Reservation System
 Entities define the building blocks of this database, representing the fundamental objects or concepts that need to be stored and managed. Attributes define the characteristics or properties of each entity.
 
-## Flight_mgt: The ENTITY here represents individual flights operated by airlines. 
+## Flight_mgt: The ENTITY here represents individual flight operated by airlines. 
 - Flight_ID (Primary Key): Unique identifier for each flight.
 - Departure_Time: Date and time of flight departure.
 - Arrival_Time: Date and time of flight arrival.
