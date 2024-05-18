@@ -86,8 +86,6 @@ Airport_Facility: Facilities available at the airport (e.g., parking, lounges)
 
 ![](airlineER.png)
 
-![](flight_reserve.sql)
-
 # Conclusion
 In designing a MYSQL relational database for a flight booking system which involves identifying the entities, defining their attributes, establishing relationships between them, and enforcing data integrity. Having followed systematic approach and considering the specific requirements of the system, I have been able to design a MYSQL database to facilitate efficient flight booking processes and enhance the overall user experience.
 
