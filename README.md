@@ -5,7 +5,7 @@ The creation of Airline Reservation System is very important in order to manage 
 ![](airportpix.png)
 
 ## Introduction
-Using MYSQL to designing a database according to this project for Airline Reservation System is meant to manage several entities like: flights, passengers, airlines, airports, bookings and payments. This should support the functionalities like searching for availability of flight, making reservations, manage pessengers' information and processing of payments securely. The design of this database will address the requirements of airline operators and travel agencies in which they can easily align their operations and provide a seamless bookingexperience to their customers.
+Using MYSQL to design a database according to this project for Airline Reservation System is meant to manage several entities like: flights, passengers, airlines, airports, bookings and payments. This should support the functionalities like searching for availability of flight, making reservations, manage pessengers' information and processing of payments securely. The design of this database will address the requirements of airline operators and travel agencies in which they can easily align their operations and provide a seamless booking experience to their customers.
 
 ## Flight Reservation System Features:
 These are the following features of the airline reservation system.
